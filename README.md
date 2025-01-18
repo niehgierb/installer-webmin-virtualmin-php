@@ -1,6 +1,6 @@
-# ProvisionPro: Multi-Task Installation Script
+# webmin-virtualmin-php8_1: Frest Installation Script
 
-**ProvisionPro** is a comprehensive, interactive Bash script designed to streamline the setup and provisioning of essential tools and software on a new machine. It ensures quick and error-free installations, saving you valuable time.
+this script is a comprehensive, interactive Bash script designed to streamline the setup and provisioning of essential tools and software on a new machine. It ensures quick and error-free installations, saving you valuable time.
 
 ## Features
 - Updates and upgrades the system.
@@ -16,22 +16,18 @@
 To execute the script directly from GitHub, run the following command:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/<your-username>/<repository-name>/main/multi_task_installer.sh)
+bash <(curl -s https://raw.githubusercontent.com/niehgierb/installer-webmin-virtualmin-php/main/webmin-virtualmin-php8_1.sh)
 ```
-
-Replace:
-- `<your-username>` with your GitHub username.
-- `<repository-name>` with the name of this repository (e.g., `ProvisionPro`).
 
 ### Clone and Run Manually
 
 Alternatively, you can clone this repository and run the script manually:
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
-chmod +x multi_task_installer.sh
-sudo ./multi_task_installer.sh
+git clone https://github.com/niehgierb/installer-webmin-virtualmin-php.git
+cd installer-webmin-virtualmin-php
+chmod +x webmin-virtualmin-php8_1.sh
+sudo ./webmin-virtualmin-php8_1.sh
 ```
 
 ## Prerequisites
