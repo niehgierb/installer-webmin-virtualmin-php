@@ -1,7 +1,3 @@
-Here's a draft for the GitHub repository README that explains the purpose of your script and provides a one-liner installation command for users.
-
----
-
 # ProvisionPro: Multi-Task Installation Script
 
 **ProvisionPro** is a comprehensive, interactive Bash script designed to streamline the setup and provisioning of essential tools and software on a new machine. It ensures quick and error-free installations, saving you valuable time.
@@ -48,7 +44,3 @@ sudo ./multi_task_installer.sh
 
 ## Contributions
 Feel free to fork the repository, submit issues, or contribute enhancements. All contributions are welcome!
-
----
-
-Let me know if you'd like me to adjust this or if you'd like me to add anything else!
