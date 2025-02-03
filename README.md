@@ -1,4 +1,4 @@
-# webmin-virtualmin-php8_1: Frest Installation Script
+# webmin-virtualmin-php8_1: First Installation Script
 
 this script is a comprehensive, interactive Bash script designed to streamline the setup and provisioning of essential tools and software on a new machine. It ensures quick and error-free installations, saving you valuable time.
 
